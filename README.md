@@ -1,2 +1,2 @@
 # cyart-vapt-team
-Week 2 VAPT Internship Submission
+VAPT Internship Reports Submission
