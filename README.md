@@ -1,2 +1,2 @@
 # cyart-vapt-team
-VAPT Internship Reports Submission
+VAPT Internship Submission
