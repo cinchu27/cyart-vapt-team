@@ -1,3 +1,5 @@
-# Task 3 – Privilege Escalation & Persistence
-
-This task demonstrates privilege escalation techniques and persistence mechanisms on Linux systems.
+Task 3 – Privilege Escalation & Persistence
+- System enumeration and misconfiguration analysis
+- Privilege escalation techniques
+- Persistence mechanisms
+- Living-off-the-Land techniques
